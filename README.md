@@ -6,3 +6,6 @@ Jika kamu tertarik silahkan ikuti beasiswa universitas batch 2 di Dicoding Indon
 
 * Hari ini aku belajar hal baru lagi yang sebenarnya sudah lama diketahui orang lain
 * Tapi aku tetap semangat karena aku suka walaupun aku cukup ketinggalan.
+
+**2 September 2023**  
+*Aku akan menyelesaikan kelas git dan git hub
